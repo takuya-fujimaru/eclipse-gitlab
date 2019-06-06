@@ -1,6 +1,6 @@
 # EclipseとGitlab連携
 
-#### 1. Gitlabにログインし、新規プロジェクトを作成する
+### 1. Gitlabにログインし、新規プロジェクトを作成する
 
 **プロジェクト名**：プロジェクト名
 **Visibily Level**：プライベート
@@ -11,7 +11,7 @@ Gitlab：https://gitlab.com/users/sign_in
 
 <br><br>
 
-#### 2. 作成したプロジェクトにメンバーを追加する
+### 2. 作成したプロジェクトにメンバーを追加する
 
 <img src="img/02.png" width="800">
 
@@ -22,13 +22,13 @@ Gitlab：https://gitlab.com/users/sign_in
 <img src="img/03.png" width="800">
 
 - 追加するメンバーを選択肢し、プロジェクトに追加する。<br>
-Select members to invite：追加するメンバーのアカウント名
-Choose a role permission：Maintainer
+**Select members to invite**: 追加するメンバーのアカウント名<br>
+**Choose a role permission**: Maintainer
 
 
 <br>
 
-#### EclipseでMavenプロジェクトを作成する
+### 3. EclipseでMavenプロジェクトを作成する
 
 <img src="img/04.png" width="800">
 
@@ -36,7 +36,7 @@ Choose a role permission：Maintainer
 
 <br>
 
-#### Gitlab連携（ローカルリポジトリを作成する）
+### 4. Gitlab連携（ローカルリポジトリを作成する）
 
 <img src="img/05.png" width="800">
 
@@ -46,19 +46,19 @@ Choose a role permission：Maintainer
 
 <img src="img/06.png" width="800">
 
-- Use or create repository in parent folder of projectにチェックする
+- [Use or create repository in parent folder of project]にチェックする
 - 一覧から対象のプロジェクトを選択する
-- Create Repositoryボタンをクリックする
+- [Create Repository]ボタンをクリックする
 
 <br>
 
 <img src="img/07.png" width="800">
 
-- Finishボタンをクリックする
+- [Finish]ボタンをクリックする
 
 <br>
 
-#### Gitlab連携（pom.xmlを更新する）
+### 5. Gitlab連携（pom.xmlを更新する）
 
 <img src="img/08.png" width="800">
 
@@ -69,7 +69,7 @@ Choose a role permission：Maintainer
 
 <br>
 
-#### Gitlab連携（ローカルリポジトリにコミットする）
+### 6. Gitlab連携（ローカルリポジトリにコミットする）
 
 <img src="img/09.png" width="800">
 
@@ -90,7 +90,7 @@ Choose a role permission：Maintainer
 
 <br>
 
-#### Gitlab連携（リモートリポジトリにプッシュする）
+### 7. Gitlab連携（リモートリポジトリにプッシュする）
 
 <img src="img/13.png" width="800">
 
@@ -139,7 +139,7 @@ Choose a role permission：Maintainer
 
 <br>
 
-#### GitlabからEclipseに取り込む
+### 8. GitlabからEclipseに取り込む
 
 <img src="img/20.png" width="800">
 
