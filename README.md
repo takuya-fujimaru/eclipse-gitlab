@@ -21,7 +21,7 @@ Gitlab：https://gitlab.com/users/sign_in
 
 <img src="img/03.png" width="800">
 
-- 追加するメンバーを選択肢し、プロジェクトに追加する。
+- 追加するメンバーを選択肢し、プロジェクトに追加する。<br>
 Select members to invite：追加するメンバーのアカウント名
 Choose a role permission：Maintainer
 
@@ -100,18 +100,18 @@ Choose a role permission：Maintainer
 
 <img src="img/14.png" width="800">
 
-- 連携先のGitlab（リモートリポジトリ）の情報を入力する
-**URI**: 対象リモートリポジトリのURI
-**User**: あなたのGitlabアカウントのメールアドレス
-**Password**: あなたのGitlabアカウントのパスワード
+- 連携先のGitlab（リモートリポジトリ）の情報を入力する<br>
+**URI**: 対象リモートリポジトリのURI<br>
+**User**: あなたのGitlabアカウントのメールアドレス<br>
+**Password**: あなたのGitlabアカウントのパスワード<br>
 **Store in Secure Store**: チェックする
 
 <br>
 
 <img src="img/15.png" width="800">
 
-- masterリポジトリを追加する
-**Source ref**: [refs/heads/master]を選択する
+- masterリポジトリを追加する<br>
+**Source ref**: [refs/heads/master]を選択する<br>
 **Destination ref**: [refs/heads/master]を選択する
 - [Add Spec]ボタンをクリックする
 
@@ -158,10 +158,10 @@ Choose a role permission：Maintainer
 
 <img src="img/22.png" width="800">
 
-- 取り込む対象のGitlab（リモートリポジトリ）の情報を入力する
-**URI**: 対象リモートリポジトリのURI
-**User**: あなたのGitlabアカウントのメールアドレス
-**Password**: あなたのGitlabアカウントのパスワード
+- 取り込む対象のGitlab（リモートリポジトリ）の情報を入力する<br>
+**URI**: 対象リモートリポジトリのURI<br>
+**User**: あなたのGitlabアカウントのメールアドレス<br>
+**Password**: あなたのGitlabアカウントのパスワード<br>
 **Store in Secure Store**: チェックする
 
 <br>
