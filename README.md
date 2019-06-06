@@ -1,8 +1,8 @@
-# EclipseとGitlab連携
+# EclipseとGitLab連携
 
-### 1. Gitlabにログインし、新規プロジェクトを作成する
+### 1. GitLabにログインし、新規プロジェクトを作成する
 
-Gitlab：https://gitlab.com/users/sign_in
+GitLab：https://gitlab.com/users/sign_in
 
 <img src="img/01.PNG" width="800">
 
@@ -38,7 +38,7 @@ Gitlab：https://gitlab.com/users/sign_in
 
 <br>
 
-### 4. Gitlab連携（ローカルリポジトリを作成する）
+### 4. GitLab連携（ローカルリポジトリを作成する）
 
 <img src="img/05.png" width="800">
 
@@ -60,7 +60,7 @@ Gitlab：https://gitlab.com/users/sign_in
 
 <br>
 
-### 5. Gitlab連携（pom.xmlを更新する）
+### 5. GitLab連携（pom.xmlを更新する）
 
 <img src="img/08.png" width="800">
 
@@ -73,7 +73,7 @@ Gitlab：https://gitlab.com/users/sign_in
 
 <br>
 
-### 6. Gitlab連携（ローカルリポジトリにコミットする）
+### 6. GitLab連携（ローカルリポジトリにコミットする）
 
 <img src="img/09.png" width="800">
 
@@ -94,7 +94,7 @@ Gitlab：https://gitlab.com/users/sign_in
 
 <br>
 
-### 7. Gitlab連携（リモートリポジトリにプッシュする）
+### 7. GitLab連携（リモートリポジトリにプッシュする）
 
 <img src="img/13.png" width="800">
 
@@ -104,10 +104,10 @@ Gitlab：https://gitlab.com/users/sign_in
 
 <img src="img/14.png" width="800">
 
-- 連携先のGitlab（リモートリポジトリ）の情報を入力する<br>
+- 連携先のGitLab（リモートリポジトリ）の情報を入力する<br>
 **URI**: 対象リモートリポジトリのURI<br>
-**User**: あなたのGitlabアカウントのメールアドレス<br>
-**Password**: あなたのGitlabアカウントのパスワード<br>
+**User**: あなたのGitLabアカウントのメールアドレス<br>
+**Password**: あなたのGitLabアカウントのパスワード<br>
 **Store in Secure Store**: チェックする
 
 <br>
@@ -139,11 +139,11 @@ Gitlab：https://gitlab.com/users/sign_in
 
 <img src="img/18.png" width="800">
 
-> Gitlab上の対象プロジェクトを見ると、Eclipseで作成したプロジェクトの構成が連携されていることが確認できる
+> GitLab上の対象プロジェクトを見ると、Eclipseで作成したプロジェクトの構成が連携されていることが確認できる
 
 <br>
 
-### 8. GitlabからEclipseに取り込む
+### 8. GitLabからEclipseに取り込む
 
 <img src="img/20.png" width="800">
 
@@ -162,10 +162,10 @@ Gitlab：https://gitlab.com/users/sign_in
 
 <img src="img/22.png" width="800">
 
-- 取り込む対象のGitlab（リモートリポジトリ）の情報を入力する<br>
+- 取り込む対象のGitLab（リモートリポジトリ）の情報を入力する<br>
 **URI**: 対象リモートリポジトリのURI<br>
-**User**: あなたのGitlabアカウントのメールアドレス<br>
-**Password**: あなたのGitlabアカウントのパスワード<br>
+**User**: あなたのGitLabアカウントのメールアドレス<br>
+**Password**: あなたのGitLabアカウントのパスワード<br>
 **Store in Secure Store**: チェックする
 
 <br>
