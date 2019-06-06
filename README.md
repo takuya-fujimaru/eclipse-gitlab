@@ -69,6 +69,8 @@ Gitlab：https://gitlab.com/users/sign_in
 
 <a href="/file/pom.xml">pom.xml</a>
 
+> pom.xml内の **groupId** と **artifactId** は各自のプロジェクトに合わせて修正する
+
 <br>
 
 ### 6. Gitlab連携（ローカルリポジトリにコミットする）
