@@ -2,14 +2,16 @@
 
 ### 1. Gitlabにログインし、新規プロジェクトを作成する
 
-**プロジェクト名**：プロジェクト名
-**Visibily Level**：プライベート
-
 Gitlab：https://gitlab.com/users/sign_in
 
 <img src="img/01.PNG" width="800">
 
-<br><br>
+- プロジェクトの情報を入力する<br>
+**プロジェクト名**: プロジェクト名<br>
+**Visibily Level**: プライベート
+- [Create project]ボタンをクリックする
+
+<br>
 
 ### 2. 作成したプロジェクトにメンバーを追加する
 
@@ -21,10 +23,10 @@ Gitlab：https://gitlab.com/users/sign_in
 
 <img src="img/03.png" width="800">
 
-- 追加するメンバーを選択肢し、プロジェクトに追加する。<br>
+- 追加するメンバーの情報を入力する<br>
 **Select members to invite**: 追加するメンバーのアカウント名<br>
 **Choose a role permission**: Maintainer
-
+- [プロジェクトに追加]ボタンをクリックする
 
 <br>
 
