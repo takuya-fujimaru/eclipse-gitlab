@@ -7,7 +7,7 @@
 
 Gitlab：https://gitlab.com/users/sign_in
 
-<img src="img/01.png" width="800">
+<img src="img/01.PNG" width="800">
 
 <br><br>
 
