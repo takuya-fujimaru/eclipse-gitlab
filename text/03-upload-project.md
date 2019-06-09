@@ -1,6 +1,6 @@
 # EclipseとGitLab連携
 
-## 3. GitLab連携（プロジェクトの配置）
+## 3. プロジェクトのアップロード
 
 作成したMavenプロジェクトをGitLabのリモートリポジトリ（masterブランチ）にアップロードします。
 
@@ -100,6 +100,6 @@
 
 <br>
 
-<a href="04-import-project.md">>> 04. GitLab連携（プロジェクトの取り込み）</a>
+<a href="04-import-project.md">>> 04. プロジェクトの取り込み</a>
 
 <a href="../README.md">>> メニューへ</a>
