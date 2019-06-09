@@ -143,7 +143,7 @@ GitLab：https://gitlab.com/users/sign_in
 
 <br>
 
-### 8. GitLabからEclipseに取り込む
+### 8. GitLabからEclipseにり込む
 
 <img src="img/20.png" width="800">
 

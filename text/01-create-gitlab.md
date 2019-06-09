@@ -6,7 +6,7 @@
 
 GitLab：https://gitlab.com/users/sign_in
 
-<img src="../img/01-01.PNG" width="800">
+<img src="../img/01-01.png" width="800">
 
 - プロジェクトの情報を入力する<br>
 **プロジェクト名**: プロジェクト名<br>
@@ -32,4 +32,4 @@ GitLab：https://gitlab.com/users/sign_in
 
 <br>
 
-<a href="02-maven-project.md">>> 2. Mavenプロジェクトの作成</a>
+<a href="02-maven-project.md">>> 02. Mavenプロジェクトの作成</a>
