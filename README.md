@@ -15,3 +15,5 @@
 <a href="/text/06-conflict.md">06. コンフリクトと対処方法</a>
 
 <a href="/text/07-assume-unchanged.md">07. コミット対象外の設定</a>
+
+<a href="/text/08-maven-jndi.md">08. Mavenプロジェクトにおけるコネクションプール（JNDI）</a>
