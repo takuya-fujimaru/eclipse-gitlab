@@ -13,3 +13,5 @@
 <a href="/text/05-switch-branch.md">05. ブランチによる開発</a>
 
 <a href="/text/06-conflict.md">06. コンフリクトと対処方法</a>
+
+<a href="/text/07-assume-unchanged.md">07. コミット対象外の設定</a>
