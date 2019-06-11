@@ -52,4 +52,6 @@
 
 <br>
 
+<a href="07-assume-unchanged.md">>> 07. コミット対象外の設定</a>
+
 <a href="../README.md">>> メニューへ</a>

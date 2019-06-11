@@ -23,3 +23,9 @@ Eclipseの Configure Build Path（ビルドパスの構成）でプロジェク�
 <img src="../img/07-03.png" width="700">
 
 > *Unstaged Changes* の欄から.classpathファイルがなくなります。
+
+<br>
+
+<a href="08-maven-jndi.md">>> 08. Mavenプロジェクトにおけるコネクションプール（JNDI）</a>
+
+<a href="../README.md">>> メニューへ</a>
