@@ -6,7 +6,7 @@
 
 <a href="/text/02-maven-project.md">02. Mavenプロジェクトの作成</a>&emsp;<span style="color:red">※代表者のみ</span>
 
-<a href="/text/03-upload-project.md">03. プロジェクトのアップロード</a>
+<a href="/text/03-upload-project.md">03. プロジェクトのアップロード</a>&emsp;<span style="color:red">※代表者のみ</span>
 
 <a href="/text/04-import-project.md">04. プロジェクトの取り込み</a>
 
